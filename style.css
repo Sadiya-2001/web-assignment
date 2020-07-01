@@ -1,0 +1,82 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0em;  
+}
+.name-color{
+    color: orange;
+}
+.url-button{
+    color:white;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,red,pink);
+    padding:10px ;
+    font: size 700;
+    border-radius: 5px;
+    
+}
+.header{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+
+}
+.half-width img{
+    width: 100%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+section{
+    height: 500px;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    margin-top: 50px;
+}
+.pic-1 img{
+    width: 100%;
+}
+.pic-1{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 50px;
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    margin-top: 150px;
+}
+.latest-work h2{
+    text-align: center;
+}
+.footer h2{
+    text-align: center;
+    color: tomato;
+}
+.footer h3{
+    text-align: center;
+}
+.footer h4{
+    text-align: center;
+    color: thistle;
+}
+.footer p{
+    text-align: center;
+}
+.message{
+    background-color: tomato;
+    margin:50px 450px;
+    padding: 5px;
+    color: whitesmoke;
+    border-radius: 5px;
+}
+footer p{
+    font-size: 10px;
+    margin-top: 150px;
+}
+.footer{
+    background-image: url("images/footer-bg.png");
+}
